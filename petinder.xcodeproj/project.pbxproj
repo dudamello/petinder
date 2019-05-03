@@ -12,6 +12,7 @@
 		0D22EE00227B109C00401AAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D22EDFE227B109C00401AAC /* Main.storyboard */; };
 		0D22EE02227B109F00401AAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D22EE01227B109F00401AAC /* Assets.xcassets */; };
 		0D22EE05227B109F00401AAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D22EE03227B109F00401AAC /* LaunchScreen.storyboard */; };
+		0D22EE0D227C64D000401AAC /* CachorroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D22EE0C227C64D000401AAC /* CachorroViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0D22EE01227B109F00401AAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D22EE04227B109F00401AAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D22EE06227B109F00401AAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D22EE0C227C64D000401AAC /* CachorroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CachorroViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				0D22EDFA227B109C00401AAC /* AppDelegate.swift */,
 				0D22EDFC227B109C00401AAC /* ViewController.swift */,
+				0D22EE0C227C64D000401AAC /* CachorroViewController.swift */,
 				0D22EDFE227B109C00401AAC /* Main.storyboard */,
 				0D22EE01227B109F00401AAC /* Assets.xcassets */,
 				0D22EE03227B109F00401AAC /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D22EDFD227B109C00401AAC /* ViewController.swift in Sources */,
+				0D22EE0D227C64D000401AAC /* CachorroViewController.swift in Sources */,
 				0D22EDFB227B109C00401AAC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
