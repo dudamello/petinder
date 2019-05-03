@@ -13,6 +13,9 @@
 		0D22EE02227B109F00401AAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D22EE01227B109F00401AAC /* Assets.xcassets */; };
 		0D22EE05227B109F00401AAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D22EE03227B109F00401AAC /* LaunchScreen.storyboard */; };
 		0D22EE0D227C64D000401AAC /* CachorroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D22EE0C227C64D000401AAC /* CachorroViewController.swift */; };
+		0D22EE0F227C6B9C00401AAC /* Cachorro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D22EE0E227C6B9C00401AAC /* Cachorro.swift */; };
+		0D22EE11227C770A00401AAC /* GatoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D22EE10227C770A00401AAC /* GatoViewController.swift */; };
+		0D22EE13227C771D00401AAC /* Gato.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D22EE12227C771D00401AAC /* Gato.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		0D22EE04227B109F00401AAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D22EE06227B109F00401AAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D22EE0C227C64D000401AAC /* CachorroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CachorroViewController.swift; sourceTree = "<group>"; };
+		0D22EE0E227C6B9C00401AAC /* Cachorro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cachorro.swift; sourceTree = "<group>"; };
+		0D22EE10227C770A00401AAC /* GatoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GatoViewController.swift; sourceTree = "<group>"; };
+		0D22EE12227C771D00401AAC /* Gato.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gato.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			children = (
 				0D22EDFA227B109C00401AAC /* AppDelegate.swift */,
 				0D22EDFC227B109C00401AAC /* ViewController.swift */,
+				0D22EE10227C770A00401AAC /* GatoViewController.swift */,
+				0D22EE12227C771D00401AAC /* Gato.swift */,
+				0D22EE0E227C6B9C00401AAC /* Cachorro.swift */,
 				0D22EE0C227C64D000401AAC /* CachorroViewController.swift */,
 				0D22EDFE227B109C00401AAC /* Main.storyboard */,
 				0D22EE01227B109F00401AAC /* Assets.xcassets */,
@@ -140,7 +149,10 @@
 			files = (
 				0D22EDFD227B109C00401AAC /* ViewController.swift in Sources */,
 				0D22EE0D227C64D000401AAC /* CachorroViewController.swift in Sources */,
+				0D22EE0F227C6B9C00401AAC /* Cachorro.swift in Sources */,
 				0D22EDFB227B109C00401AAC /* AppDelegate.swift in Sources */,
+				0D22EE13227C771D00401AAC /* Gato.swift in Sources */,
+				0D22EE11227C770A00401AAC /* GatoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
